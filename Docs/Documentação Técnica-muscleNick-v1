@@ -10,13 +10,13 @@ Esta pesquisa tem como objetivo analisar criticamente o mercado atual de aplicat
 
 Foram revisados diversos aplicativos líderes de mercado, conforme tabela abaixo:
 
-| Aplicativo                | SUS Score | Pontos Fortes                                | Limitações Principais                            |
+| Aplicativo                | SUS Score | Pontos Fortes                                 | Limitações Principais                            |
 |---------------------------|-----------|-----------------------------------------------|--------------------------------------------------|
 | MyFitnessPal              | 83.6      | Base extensa de alimentos                     | Dados inconsistentes, interface poluída          |
 | LifeSum                   | 89.2      | Interface intuitiva, “Teste de Saúde”         | Pouca personalização de macros por refeição      |
 | Lose It!                  | 75.4      | Reconhecimento de alimentos por foto          | Baixa acurácia nutricional                       |
-| FatSecret                 | 72.3      | Registro prático                              | Dados imprecisos                                |
-| Argus                    | 68.5      | Integração com passos/caminhada               | Interface pouco otimizada para dieta             |
+| FatSecret                 | 72.3      | Registro prático                              | Dados imprecisos                                 |
+| Argus                     | 68.5      | Integração com passos/caminhada               | Interface pouco otimizada para dieta             |
 | MyPlate Calorie Tracker   | 66.2      | Registro rápido                               | Falta de relatórios de progresso                 |
 | MyDietCoach               | 46.7      | Gamificação para perda de peso                | Baixa usabilidade, foco não atlético             |
 
