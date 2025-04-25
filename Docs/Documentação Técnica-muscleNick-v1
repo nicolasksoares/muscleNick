@@ -1,75 +1,46 @@
 Pesquisa de Mercado – muscleNick
 
-1. Introdução
+## 1. Introdução
 
 Esta pesquisa tem como objetivo analisar criticamente o mercado atual de aplicativos de monitoramento alimentar e saúde nutricional, identificando oportunidades, limitações e diferenciais que possam ser incorporados no desenvolvimento do aplicativo muscleNick. O foco é oferecer uma solução mais precisa, personalizada e confiável para indivíduos com maior grau de consciência nutricional, como praticantes de musculação e atletas amadores.
 
-2. Aplicativos analisados
+## 2. Análise de Mercado
 
-Foram revisados diversos aplicativos líderes de mercado:
+### 2.1 Aplicativos analisados
 
-MyFitnessPal
+Foram revisados diversos aplicativos líderes de mercado, conforme tabela abaixo:
 
-LifeSum
+| Aplicativo                | SUS Score | Pontos Fortes                                | Limitações Principais                            |
+|---------------------------|-----------|-----------------------------------------------|--------------------------------------------------|
+| MyFitnessPal              | 83.6      | Base extensa de alimentos                     | Dados inconsistentes, interface poluída          |
+| LifeSum                   | 89.2      | Interface intuitiva, “Teste de Saúde”         | Pouca personalização de macros por refeição      |
+| Lose It!                  | 75.4      | Reconhecimento de alimentos por foto          | Baixa acurácia nutricional                       |
+| FatSecret                 | 72.3      | Registro prático                              | Dados imprecisos                                |
+| Argus                    | 68.5      | Integração com passos/caminhada               | Interface pouco otimizada para dieta             |
+| MyPlate Calorie Tracker   | 66.2      | Registro rápido                               | Falta de relatórios de progresso                 |
+| MyDietCoach               | 46.7      | Gamificação para perda de peso                | Baixa usabilidade, foco não atlético             |
 
-Lose It!
 
-FatSecret
+### 2.2 Limitações encontradas
 
-Argus
+- Ausência de rastreamento de fatores emocionais associados à alimentação.
+- Nenhum app permite o registro de sabor, fome ou saciedade.
+- Acurácia limitada para proteínas (erro médio de até 10.4%) e gorduras (-6.5%).
+- Base de dados inconsistente ou desatualizada.
+- Falta de confiabilidade para avaliações dietéticas individuais.
 
-MyPlate Calorie Tracker
+## 3. Aspectos Comportamentais e Mudança de Hábito
 
-MyDietCoach
+- A maioria dos apps promove autocontrole, estabelecimento de metas e autoconfiança.
+- A adesão à teoria de mudança de comportamento ainda é fraca na maioria dos apps.
+- Poucos apps abordam crenças sobre as consequências da dieta; apenas o LifeSum possui um "Teste de Saúde" que promove reflexão sobre hábitos alimentares.
 
-2.1 Resultados de usabilidade (SUS Score)
-
-LifeSum teve o maior score de usabilidade (SUS) com 89.2.
-
-MyDietCoach teve o menor score com 46.7.
-
-Os apps são considerados fáceis de usar, com boa curva de aprendizado e recursos como:
-
-Escaneamento de código de barras
-
-Registro de alimentos recentes
-
-Tentativa de reconhecimento de alimentos por foto (Lose It!)
-
-2.2 Limitações encontradas
-
-Ausência de rastreamento de fatores emocionais associados à alimentação.
-
-Nenhum app permite o registro de sabor, fome ou saciedade.
-
-Acurácia limitada para proteínas (erro médio de até 10.4%) e gorduras (-6.5%).
-
-Muita variabilidade nos dados de entrada de usuários.
-
-Base de dados inconsistente ou desatualizada.
-
-Estudos clínicos sugerem que apps atuais não são recomendados para avaliações dietéticas individuais.
-
-3. Aspectos Comportamentais e Mudança de Hábito
-
-A maioria dos apps promove autocontrole, estabelecimento de metas e autoconfiança.
-
-A adesão à teoria de mudança de comportamento ainda é fraca na maioria dos apps.
-
-Poucos apps abordam crenças sobre as consequências da dieta; apenas o LifeSum possui um "Teste de Saúde" que promove reflexão sobre hábitos alimentares.
-
-4. Considerações para o muscleNick
+## 4. Considerações para o muscleNick
 
 Com base nas falhas encontradas, o muscleNick pode se destacar ao:
-
-Incluir registro emocional e sensorial (fome, saciedade, sabor, estresse etc.)
-
-Fornecer feedback baseado em inteligência nutricional adaptativa, voltado para objetivos (cutting, bulking, manutenção)
-
-Garantir uma base de dados precisa e validada cientificamente
-
-Oferecer entrada facilitada por voz, toque ou deslize de porções
-
-Trazer relatórios detalhados de progressão estética e nutricional
-
-Ser focado em usuários avançados, com perfis personalizáveis (ex: macros por refeição, não apenas diários)
+- Incluir registro emocional e sensorial (fome, saciedade, sabor, estresse etc.)
+- Fornecer feedback baseado em inteligência nutricional adaptativa, voltado para objetivos (cutting, bulking, manutenção)
+- Garantir uma base de dados precisa e validada cientificamente
+- Oferecer entrada facilitada por voz, toque ou deslize de porções
+- Trazer relatórios detalhados de progressão estética e nutricional
+- Ser focado em usuários avançados, com perfis personalizáveis (ex: macros por refeição, não apenas diários)
