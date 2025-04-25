@@ -1,13 +1,11 @@
 Pesquisa de Mercado – muscleNick
 
 ## 1. Introdução
-
-Esta pesquisa tem como objetivo analisar criticamente o mercado atual de aplicativos de monitoramento alimentar e saúde nutricional, identificando oportunidades, limitações e diferenciais que possam ser incorporados no desenvolvimento do aplicativo muscleNick. O foco é oferecer uma solução mais precisa, personalizada e confiável para indivíduos com maior grau de consciência nutricional, como praticantes de musculação e atletas amadores.
+Esta pesquisa visa analisar criticamente o mercado atual de aplicativos de monitoramento alimentar e saúde nutricional, identificando oportunidades, limitações e diferenciais que possam ser incorporados no desenvolvimento do muscleNick. O foco é oferecer uma solução de alta performance para indivíduos com maior grau de consciência nutricional — como praticantes de musculação, atletas amadores e usuários que buscam precisão e personalização em sua jornada alimentar.
 
 ## 2. Análise de Mercado
 
 ### 2.1 Aplicativos analisados
-
 Foram revisados diversos aplicativos líderes de mercado, conforme tabela abaixo:
 
 | Aplicativo                | SUS Score | Pontos Fortes                                 | Limitações Principais                            |
@@ -19,28 +17,29 @@ Foram revisados diversos aplicativos líderes de mercado, conforme tabela abaixo
 | Argus                     | 68.5      | Integração com passos/caminhada               | Interface pouco otimizada para dieta             |
 | MyPlate Calorie Tracker   | 66.2      | Registro rápido                               | Falta de relatórios de progresso                 |
 | MyDietCoach               | 46.7      | Gamificação para perda de peso                | Baixa usabilidade, foco não atlético             |
+*Referência: Ferrara et al., JMIR mHealth and uHealth, 2019.*
+*A pontuação SUS (System Usability Scale) foi utilizada como métrica padronizada de usabilidade.*
 
 
 ### 2.2 Limitações encontradas
-
 - Ausência de rastreamento de fatores emocionais associados à alimentação.
-- Nenhum app permite o registro de sabor, fome ou saciedade.
-- Acurácia limitada para proteínas (erro médio de até 10.4%) e gorduras (-6.5%).
-- Base de dados inconsistente ou desatualizada.
-- Falta de confiabilidade para avaliações dietéticas individuais.
+- Nenhum app permite o registro de sensação de fome, saciedade ou sabor.
+- Acurácia limitada: erro médio de até 10,4% para proteínas e -6,5% para gorduras.
+- Base de dados inconsistente ou não validada.
+- Pouca confiabilidade na análise nutricional individual, especialmente para atletas.
+- Falta de orientação baseada em teorias comportamentais.
 
 ## 3. Aspectos Comportamentais e Mudança de Hábito
-
 - A maioria dos apps promove autocontrole, estabelecimento de metas e autoconfiança.
 - A adesão à teoria de mudança de comportamento ainda é fraca na maioria dos apps.
 - Poucos apps abordam crenças sobre as consequências da dieta; apenas o LifeSum possui um "Teste de Saúde" que promove reflexão sobre hábitos alimentares.
 
 ## 4. Considerações para o muscleNick
-
 Com base nas falhas encontradas, o muscleNick pode se destacar ao:
-- Incluir registro emocional e sensorial (fome, saciedade, sabor, estresse etc.)
-- Fornecer feedback baseado em inteligência nutricional adaptativa, voltado para objetivos (cutting, bulking, manutenção)
-- Garantir uma base de dados precisa e validada cientificamente
-- Oferecer entrada facilitada por voz, toque ou deslize de porções
-- Trazer relatórios detalhados de progressão estética e nutricional
-- Ser focado em usuários avançados, com perfis personalizáveis (ex: macros por refeição, não apenas diários)
+✅ Inovar com registro emocional e sensorial (fome, saciedade, sabor, estresse etc.)
+✅ Fornecer feedback adaptativo, com inteligência nutricional voltada a objetivos como cutting, bulking ou manutenção
+✅ Garantir uma base científica validada de dados alimentares
+✅ Incorporar métodos de entrada modernos: voz, toque, deslize
+✅ Apresentar relatórios personalizados sobre progresso estético, composição corporal (quando disponível) e dieta
+✅ Permitir configuração de macros por refeição, atendendo usuários avançados e objetivos específicos
+✅ Servir como ferramenta educativa, com conteúdos nutricionais personalizados para o perfil e a fase do usuário
