@@ -1,7 +1,7 @@
 # muscleNick
 
-- muscleNick is an app developed to help users track their macros in order to achieve goals such as fat loss, muscle gain, or weight management.
+O muscleNick é um aplicativo desenvolvido para ajudar usuários a monitorar seus macronutrientes com o objetivo de alcançar metas como perda de gordura, ganho de massa muscular ou manutenção do peso.
 
-- It's important to note that muscleNick is not designed for beginners or people without any experience in dieting. Instead, it targets athletes, gym-goers, and individuals who are already familiar with macro tracking.
+É importante destacar que o muscleNick não é voltado para iniciantes ou pessoas sem experiência prévia com dieta. O foco são atletas, praticantes de musculação e indivíduos que já possuem familiaridade com contagem de macros.
 
-- muscleNick is inspired by other popular macro-tracking apps like MyFitnessPal, Samsung Health, and Growth.
+
