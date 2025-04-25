@@ -43,8 +43,3 @@ Toda a documentação está disponível na pasta [`/Docs`](./Docs), incluindo:
 - Arquivo de controle das sprints
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.  
-Sinta-se livre para estudar, contribuir e adaptar com os devidos créditos.
